@@ -1,6 +1,7 @@
 # Raj_SCM
 **Data-Driven Innovations in Supply Chain Management with Qlik Insight**
-In supply chain management through data-driven insights using Qlik Sense, we have to optimize logistics, forecasting, and inventory management, thereby enhancing operational efficiency and responsiveness. This includes improving transportation routes, reducing lead times, and implementing real-time tracking and monitoring solutions.
+In supply chain management through data-driven insights using Qlik Sense, we have to optimize logistics, forecasting, and inventory management, thereby enhancing operational efficiency and responsiveness. This includes improving transportation routes, reducing lead times, and implementing real-time tracking and monitoring solutions. 
+**Pre processing dataset link** :- https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
 **Google drive link for Dataset, Dashboard,Storytelling, Video Description, Visualizations all are in one folder, link for the drive** :-https://drive.google.com/drive/folders/1mQIs6Y3WKAVu3ZIN-hyPtHfQgx8G3GKt?usp=drive_link
 
